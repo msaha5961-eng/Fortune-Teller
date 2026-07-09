@@ -1,6 +1,8 @@
 # Fortune-Teller
 Fortune Teller is a C++ console application that generates random fortunes across Love, Career, Daily Life, and Health. Built as a beginner project, it demonstrates core C++ concepts including arrays, loops, switch statements, user input/output, and random number generation through an interactive command-line experience.
 
+---
+
 ## 📖 Project Overview
 
 The Fortune Teller allows users to choose from four different fortune categories:
@@ -28,7 +30,7 @@ Based on the selected category, the program randomly displays one fortune from a
 
 * C++
 * Standard Template Library (STL)
-* Dev-C++ / Any C++ Compiler
+* Dev-C++
 
 ---
 
